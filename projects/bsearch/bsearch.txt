@@ -4,7 +4,7 @@ Groups will be assigned by 4/10
 Project DUE: 4/16 11:59PM EST
 
 Links:
-  Our GitHub Project - https://github.com/qlknox/SYCS100
+  Our GitHub Project - https://github.com/qlknox/SYCS-100
   Notes on Git -  http://en.wikipedia.org/wiki/Git_(software)
   Git Tutorial - http://git-scm.com/docs/gittutorial
 
